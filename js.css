@@ -1,0 +1,127 @@
+html {
+  position: static;
+  background-color: #3d087b;
+  height: 100vh;
+  width: 100vw;
+}
+.class1 {
+  position: relative;
+  left: 10vw;
+  top: 5vh;
+}
+
+.class3 {
+  display: inline;
+  padding: 30px 8px;
+  background-color: white;
+  color: #8e53f0;
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+.class5 {
+  width: 30vw;
+  height: 50vh;
+}
+
+.class8 {
+  font-size: 30px;
+}
+.class6 {
+  display: flex;
+  background-color: white;
+  width: 300px;
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-size: 25px;
+  box-shadow: 6px 6px 6px 6px pink;
+}
+.class9 {
+  display: inline-block;
+  display: flex;
+  height: 30px;
+  width: 50px;
+  background-image: url(./AM_svg.svg);
+  background-size: cover;
+  border-radius: 3px;
+  text-align: center;
+  align-items: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+  padding: 5px 5px 5px 5px;
+}
+.class10 {
+  position: absolute;
+  right: 13vw;
+  top: 10vh;
+}
+.class12 {
+  display: inline-block;
+  background-color: white;
+  height: 250px;
+  padding: 20px 20px;
+  font-size: 20px;
+  text-align: end;
+  border-radius: 5px;
+}
+.class15 {
+  width: 150px;
+  color: purple;
+  align-items: end;
+}
+.class16 {
+  border-left: 1px solid black;
+  height: 25px;
+  position: relative;
+  left: 17px;
+}
+.class17 {
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #8e53f0;
+  width: 337px;
+  padding: 20px 30px;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+.class18 {
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(
+    to right,
+    rgb(59, 59, 231),
+    rgb(228, 52, 33)
+  );
+  width: 150px;
+  border-radius: 5px;
+  padding: 10px 5px;
+  text-align: center;
+}
+.class18:hover {
+  cursor: pointer;
+  background-image: linear-gradient(
+    to left,
+    rgb(59, 59, 231),
+    rgb(228, 52, 33)
+  );
+}
+.class19 {
+  display: block-inline;
+  background-color: #7e47d7;
+  width: 190px;
+  color: violet;
+  font-size: 13px;
+  position: relative;
+  left: 180px;
+  bottom: 50px;
+  padding: 10px;
+  border-radius: 5px;
+}
